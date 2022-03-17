@@ -1,4 +1,4 @@
-## CopyToRestPose by F3R0
+## CopyToRestPose
 
 This script simply copies the **CURRENT POSE** of an armature to a target 
 armature and applies it as the REST POSE. 
