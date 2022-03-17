@@ -1,4 +1,4 @@
-## CopyToRestPose by F3R0 (twitter: @ferotanman)
+## CopyToRestPose by F3R0
 
 This script simply copies the **CURRENT POSE** of an armature to a target 
 armature and applies it as the REST POSE. 
@@ -8,3 +8,5 @@ IT REMOVES ALL 'COPY_TRANSFORMS' CONSTRAINTS ON THE TARGET ARMATURE.
 
 Target Armature must be in a collection named **"TargetArmature"**
 Select ONLY the Rig you want to change it's rest pose and run the script.
+
+twitter: @ferotanman
