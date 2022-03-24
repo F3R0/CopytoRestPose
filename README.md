@@ -1,3 +1,4 @@
+![Alt Text](thumb.gif)
 ## CopyToRestPose
 
 This script simply copies the **CURRENT POSE** of an armature to a target 
